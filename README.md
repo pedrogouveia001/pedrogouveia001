@@ -19,11 +19,11 @@
 
 Sou mestrando em **Engenharia de Produção no PPGEP-UFPE**, com foco de atuação e pesquisa em **Pesquisa Operacional, Otimização e Modelos Multicritério de Apoio à Decisão (MCDM)**. 
 
-No meu Trabalho de Conclusão de Curso (TCC), construí um **modelo de decisão multicritério baseado no FITradeoff para Análise de Investimento no Setor Bancário**. A partir desse estudo, desenvolvi dois Sistemas de Apoio à Decisão (SAD) para análise de investimento fundamentalista de ações, integrando lógica de negócios backend com tratamento de dados e cotações históricas.
+No meu Trabalho de Conclusão de Curso (TCC), construí um **modelo de decisão multicritério baseado no FITradeoff para Análise de Investimento no Setor Bancário**. Recentemente desenvolvi o ecossistema **NEXUS MCDM**, composto por um hub integrador central e 9 resolvedores matemáticos independentes que englobam os principais métodos de decisão multicritério mundiais.
 
 *   🎓 **Mestrando em Engenharia de Produção** na UFPE (Foco em Pesquisa Operacional e Métodos Multicritério)
-*   💻 **Stack de Desenvolvimento:** Python (Pandas, NumPy, Flask), SQL, Delphi/Object Pascal e MySQL/PostgreSQL
-*   ✍️ **Pesquisa & Aplicações:** Sistemas de Apoio à Decisão (SAD) e Modelagem de Decisão Multicritério (**FITradeoff, SMARTER, PROMETHEE II ROC**)
+*   💻 **Stack de Desenvolvimento:** Python (Pandas, NumPy, Flask, ReportLab), SQL, Delphi/Object Pascal, MySQL e PostgreSQL
+*   ✍️ **Pesquisa & Aplicações:** Sistemas de Apoio à Decisão (SAD), Modelagem de Decisão Multicritério (**AHP, BWM, BWT, MACBETH, TOPSIS, VIKOR, ELECTRE, PROMETHEE**)
 *   🚀 **Estudos Adicionais em Andamento:** Introdução à Ciência da Computação (Harvard CS50x)
 
 ---
@@ -54,7 +54,24 @@ No meu Trabalho de Conclusão de Curso (TCC), construí um **modelo de decisão 
 
 ---
 
-### 🏆 Projetos de Destaque
+### 🌐 Ecossistema NEXUS MCDM (2026)
+
+Desenvolvi a suíte de aplicativos **NEXUS MCDM**, um ecossistema completo de apoio à decisão multicritério constituído de uma central integradora e 9 módulos de solvers independentes:
+
+*   🖥️ **[sad-central-mcdm](https://github.com/pedrogouveia001/sad-central-mcdm)**: Hub central que gerencia problemas de decisão, integra dados históricos, suporta importação de planilhas no modelo da Matriz de Consequências do TCC e gera relatórios executivos em PDF em tempo real.
+*   📊 **[sad-smarts-smarter](https://github.com/pedrogouveia001/sad-smarts-smarter)**: Módulo de elicitação direta por Swings (SMARTS) e centróides ordinais ROC (SMARTER).
+*   📐 **[sad-ahp](https://github.com/pedrogouveia001/sad-ahp)**: Solver hierárquico matricial baseado na Escala de Saaty e análise de consistência de autovetores.
+*   🎯 **[sad-bwm](https://github.com/pedrogouveia001/sad-bwm)**: Best Worst Method baseado em otimização linear minimax com comparações reduzidas.
+*   📐 **[sad-bwt](https://github.com/pedrogouveia001/sad-bwt)**: Best Worst Tradeoff integrando taxas físicas de tradeoff inter-critério e elicitação por bisseção.
+*   🎭 **[sad-macbeth](https://github.com/pedrogouveia001/sad-macbeth)**: Elicitação semântica baseada em atratividade verbal resolvida por Programação Linear.
+*   🌌 **[sad-topsis](https://github.com/pedrogouveia001/sad-topsis)**: Módulo de ordenação baseado na menor distância euclidiana da solução ideal e maior da anti-ideal.
+*   🤝 **[sad-vikor](https://github.com/pedrogouveia001/sad-vikor)**: Solução de compromisso multicritério ponderando utilidade de grupo e arrependimento.
+*   ⚖️ **[sad-electre](https://github.com/pedrogouveia001/sad-electre)**: Métodos não-compensatórios de sobreclassificação ELECTRE I, IS, II, III, IV e TRI com aplicação de veto estrito.
+*   🏹 **[sad-promethee](https://github.com/pedrogouveia001/sad-promethee)**: Métodos PROMETHEE I a TRI e otimização inteira binária (Mochila 0-1) para seleção de portfólio (PROMETHEE V).
+
+---
+
+### 🏆 Outros Projetos de Destaque
 
 *   📈 **[PrometheeInvestor](https://github.com/pedrogouveia001/sad-promethee-roc)**
     Sistema de Apoio à Decisão para análise fundamentalista de ações da B3. Utiliza o método de preferência multicritério **PROMETHEE II** com pesos de importância calibrados via **Rank Order Centroid (ROC)**, integrando análise de séries temporais de indicadores com regressão linear contra dados reais de fechamento de mercado.
