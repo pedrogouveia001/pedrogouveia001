@@ -1,7 +1,7 @@
 # Olá, eu sou Pedro Henrique Gouveia! 👋
 
 <p align="center">
-  <strong>Mestrando em Engenharia de Produção (UFPE) | Pesquisador em Otimização & Apoio à Decisão | Desenvolvedor Python Backend</strong>
+  <strong>Mestrando em Engenharia de Produção (UFPE) | Pesquisador em Pesquisa Operacional & Apoio à Decisão | Desenvolvedor Python Backend</strong>
 </p>
 
 <p align="center">
@@ -17,14 +17,14 @@
 
 ### 🧬 Sobre Mim
 
-Sou mestrando em **Engenharia de Produção no PPGEP-UFPE**, com foco de atuação e pesquisa em **Pesquisa Operacional, Otimização e Modelos Multicritério de Apoio à Decisão (MCDM)**. 
+Mestrando em **Engenharia de Produção (PPGEP-UFPE)** na linha de **Pesquisa Operacional**, graduado em Engenharia de Produção pela UFPE e Técnico em Mecânica pelo IFPE. 
 
-No meu Trabalho de Conclusão de Curso (TCC), construí um **modelo de decisão multicritério baseado no FITradeoff para Análise de Investimento no Setor Bancário**. Recentemente desenvolvi o ecossistema **NEXUS MCDM**, composto por um hub integrador central e 9 resolvedores matemáticos independentes que englobam os principais métodos de decisão multicritério mundiais.
+Atuo desde 2022 como pesquisador bolsista no **CDSID (Centro de Desenvolvimento de Sistemas de Informação e Decisão)**. Minha pesquisa e prática concentram-se no desenvolvimento de **Sistemas de Apoio à Decisão (SAD/DSS)**, **Apoio Multicritério à Decisão (MCDM/A)**, elicitação de preferências sob informação parcial (como o método **FITradeoff**), análise de sensibilidade e estabilidade estrutural de ordenações.
 
-*   🎓 **Mestrando em Engenharia de Produção** na UFPE (Foco em Pesquisa Operacional e Métodos Multicritério)
-*   💻 **Stack de Desenvolvimento:** Python (Pandas, NumPy, Flask, ReportLab), SQL, Delphi/Object Pascal, MySQL e PostgreSQL
-*   ✍️ **Pesquisa & Aplicações:** Sistemas de Apoio à Decisão (SAD), Modelagem de Decisão Multicritério (**AHP, BWM, BWT, MACBETH, TOPSIS, VIKOR, ELECTRE, PROMETHEE**)
-*   🚀 **Estudos Adicionais em Andamento:** Introdução à Ciência da Computação (Harvard CS50x)
+*   🎓 **Mestrado em Engenharia de Produção (PPGEP-UFPE):** Foco em Pesquisa Operacional e Otimização Matemática.
+*   💻 **Stack de Desenvolvimento:** Python (Pandas, NumPy, SciPy, Flask, ReportLab), SQL, Delphi/Object Pascal e Bancos de Dados Relacionais.
+*   ✍️ **Pesquisa Científica:** Modelagem matemática de preferências com publicações internacionais no **Springer Lecture Notes**, anais do **INFORMS Annual Meeting** (Seattle, EUA), **MCDM International Conference** (Tunísia) e **SBPO**.
+*   🏷️ **Software Registrado (INPI):** Co-autor do **FITradeoff-CB-HE** (registro nº 512025006292-3), um software voltado para seleção de portfólio de projetos sob razão custo-benefício.
 
 ---
 
@@ -74,12 +74,13 @@ Desenvolvi a suíte de aplicativos **NEXUS MCDM**, um ecossistema completo de ap
 ### 🏆 Outros Projetos de Destaque
 
 *   📈 **[PrometheeInvestor](https://github.com/pedrogouveia001/sad-promethee-roc)**
-    Sistema de Apoio à Decisão para análise fundamentalista de ações da B3. Utiliza o método de preferência multicritério **PROMETHEE II** com pesos de importância calibrados via **Rank Order Centroid (ROC)**, integrando análise de séries temporais de indicadores com regressão linear contra dados reais de fechamento de mercado.
-    *   *Stack:* Python, Flask, SQLAlchemy, SQLite, Chart.js, HTML5/CSS3.
-
+    Sistema de Apoio à Decisão para análise fundamentalista de ações da B3. Utiliza o método de preferência multicritério **PROMETHEE II** com pesos de importância calibrados via **Rank Order Centroid (ROC)**.
+    
 *   📊 **[SAD Smarter B3](https://github.com/pedrogouveia001/sad-smarter-b3)**
-    Sistema analítico de investimentos baseado no método de decisão **SMARTER** (Simple Multi-Attribute Rating Technique Extended to Ranks) com pesos ROC. O projeto inclui módulo de coleta automática de preços (API brapi.dev) e análise estatística de correlação linear (Pearson e Spearman).
-    *   *Stack:* Python, Flask, pandas, scipy, SQLite, Vanilla CSS.
+    Sistema analítico de investimentos baseado no método de decisão **SMARTER** com pesos ROC e coleta automática de cotações.
+
+*   🧠 **Cerebrum IA**
+    Sistema de memorização ativa e repetição espaçada voltado para técnicas avançadas de aprendizado.
 
 ---
 
