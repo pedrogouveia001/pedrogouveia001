@@ -79,9 +79,9 @@ Como parte da consolidação dos motores matemáticos, implementei e publiquei o
 
 ---
 
-### 🌐 Ecossistema NEXUS MCDM (2026)
+### 🌐 Ecossistema SAD MCDM (2026)
 
-Desenvolvi a suíte de aplicativos **NEXUS MCDM**, um ecossistema completo de apoio à decisão multicritério constituído de uma central integradora e 9 módulos de solvers independentes (agora sob a organização `sad-mcdm`):
+Desenvolvi a suíte de aplicativos **SAD MCDM**, um ecossistema completo de apoio à decisão multicritério constituído de uma central integradora e 9 módulos de solvers independentes (agora sob a organização `sad-mcdm`):
 
 *   🖥️ **[sad-central-mcdm](https://github.com/sad-mcdm/sad-central-mcdm)**: Hub central que gerencia problemas de decisão, integra dados históricos, suporta importação de planilhas no modelo da Matriz de Consequências do TCC e gera relatórios executivos em PDF em tempo real.
 *   📊 **[sad-smarts-smarter](https://github.com/sad-mcdm/sad-smarts-smarter)**: Módulo de elicitação direta por Swings (SMARTS) e centróides ordinais ROC (SMARTER).
@@ -98,7 +98,7 @@ Desenvolvi a suíte de aplicativos **NEXUS MCDM**, um ecossistema completo de ap
 
 ### 🏆 Outros Projetos de Destaque
 
-*   📈 **[PrometheeInvestor](https://github.com/sad-mcdm/sad-promethee-roc)**
+*   📈 **[PrometheeInvestor](https://github.com/sad-mcdm/sad-promethee-b3)**
     Sistema de Apoio à Decisão para análise fundamentalista de ações da B3. Utiliza o método de preferência multicritério **PROMETHEE II** com pesos de importância calibrados via **Rank Order Centroid (ROC)**.
     
 *   📊 **[SAD Smarter B3](https://github.com/sad-mcdm/sad-smarter-b3)**
