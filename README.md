@@ -113,7 +113,6 @@ Desenvolvi a suíte de aplicativos **SAD MCDM**, um ecossistema completo de apoi
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogouveia001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogouveia001&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
