@@ -48,6 +48,27 @@ Quatro anos construindo software de decisão multicritério no Centro de Desenvo
 | Repositório | O que é |
 | :--- | :--- |
 | [cdsid-spear](https://github.com/pedrogouveia001/cdsid-spear) | SPEAR — elicitação por decomposição: Delphi/IntraWeb + camada web em Flask |
+| [cdsid-dashboard-fitradeoff](https://github.com/pedrogouveia001/cdsid-dashboard-fitradeoff) | Portal bibliométrico: raspador + API OpenAlex, desduplicação por DOI e grafo de coautoria em D3.js |
+| [cdsid-promethee-roc](https://github.com/pedrogouveia001/cdsid-promethee-roc) | PROMETHEE com pesos ROC — SAD multicritério |
+| [cdsid-promethee-c-optimal](https://github.com/pedrogouveia001/cdsid-promethee-c-optimal) | PROMETHEE C Ótimo — portfólio por razão custo-benefício com otimização |
+| [cdsid-promethee-rocnratio](https://github.com/pedrogouveia001/cdsid-promethee-rocnratio) | PROMETHEE ROC/N-Ratio — elicitação de pesos e análise de sensibilidade |
+| [cdsid-stratplan](https://github.com/pedrogouveia001/cdsid-stratplan) | Planejamento estratégico com otimização multiobjetivo (NSGA-II) |
+| [cdsid-nsgaii-intraweb](https://github.com/pedrogouveia001/cdsid-nsgaii-intraweb) | NSGA-II em aplicação web — algoritmo genético multiobjetivo |
+| [cdsid-sadpf](https://github.com/pedrogouveia001/cdsid-sadpf) | Seleção de portfólio com diagrama de Hasse para ordenação parcial |
+| [cdsid-sadsds](https://github.com/pedrogouveia001/cdsid-sadsds) | SAD para alocação de recursos em segurança pública |
+| [cdsid-holistica-classificacao](https://github.com/pedrogouveia001/cdsid-holistica-classificacao) | Avaliação holística e problemática de classificação |
+| [cdsid-sw-cadastro](https://github.com/pedrogouveia001/cdsid-sw-cadastro) | Cadastro único — autenticação compartilhada entre os SADs do laboratório |
+| [cdsid-surrogate-simulacao](https://github.com/pedrogouveia001/cdsid-surrogate-simulacao) · [-python](https://github.com/pedrogouveia001/cdsid-surrogate-simulacao-python) | Simulação de heurísticas com pesos surrogate — Delphi e Flask |
+| [cdsid-surrogate-input](https://github.com/pedrogouveia001/cdsid-surrogate-input) · [-python](https://github.com/pedrogouveia001/cdsid-surrogate-input-python) | Entrada de dados para métodos surrogate — Delphi e Flask |
+| [cdsid-pl-input](https://github.com/pedrogouveia001/cdsid-pl-input) · [cdsid-ppl-simulacao](https://github.com/pedrogouveia001/cdsid-ppl-simulacao) | Entrada e simulação de programação linear, com solver lp_solve |
+| [cdsid-colab-notebooks](https://github.com/pedrogouveia001/cdsid-colab-notebooks) | Notebooks de otimização e métodos numéricos — Python/Jupyter |
+
+> Os repositórios contêm apenas código-fonte de minha autoria. Dumps de banco, planilhas de
+> aplicação real e trabalho de colegas foram mantidos fora. Componentes de terceiros
+> redistribuídos (lp_solve, LGPL) estão creditados em `THIRD-PARTY.md`.
+
+--- | :--- |
+| [cdsid-spear](https://github.com/pedrogouveia001/cdsid-spear) | SPEAR — elicitação por decomposição: Delphi/IntraWeb + camada web em Flask |
 | [cdsid-surrogate-simulacao](https://github.com/pedrogouveia001/cdsid-surrogate-simulacao) | Simulação de heurísticas com pesos surrogate (ROC/RS/RR) — Delphi |
 | [cdsid-surrogate-input](https://github.com/pedrogouveia001/cdsid-surrogate-input) | Entrada de dados para métodos com pesos surrogate — Delphi/IntraWeb |
 | [cdsid-pl-input](https://github.com/pedrogouveia001/cdsid-pl-input) | Entrada de problemas de programação linear, com solver lp_solve — Delphi |
