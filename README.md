@@ -52,7 +52,7 @@ Quatro anos construindo software de decisão multicritério no Centro de Desenvo
 | [cdsid-surrogate-input](https://github.com/pedrogouveia001/cdsid-surrogate-input) | Entrada de dados para métodos com pesos surrogate — Delphi/IntraWeb |
 | [cdsid-pl-input](https://github.com/pedrogouveia001/cdsid-pl-input) | Entrada de problemas de programação linear, com solver lp_solve — Delphi |
 | [cdsid-ppl-simulacao](https://github.com/pedrogouveia001/cdsid-ppl-simulacao) | Simulação de problemas de programação linear — Delphi |
-| [cdsid-colab-notebooks](https://github.com/pedrogouveia001/cdsid-colab-notebooks) | Notebooks de otimização e pesquisa operacional — Python/Jupyter |
+| [cdsid-dashboard-fitradeoff](https://github.com/pedrogouveia001/cdsid-dashboard-fitradeoff) | Portal bibliométrico: raspador + API OpenAlex, desduplicação por DOI e grafo de coautoria em D3.js — JavaScript |
 
 **Produção derivada desse software:** capítulo na Springer Nature (LNBIP, 2025) · INFORMS Annual Meeting 2024 (Seattle) · 27th International Conference on MCDM 2024 (Tunísia) · SBPO.
 
