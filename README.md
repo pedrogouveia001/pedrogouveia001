@@ -47,6 +47,7 @@ Quatro anos construindo software de decisão multicritério no Centro de Desenvo
 
 | Repositório | O que é |
 | :--- | :--- |
+| [cdsid-spear](https://github.com/pedrogouveia001/cdsid-spear) | SPEAR — elicitação por decomposição: Delphi/IntraWeb + camada web em Flask |
 | [cdsid-surrogate-simulacao](https://github.com/pedrogouveia001/cdsid-surrogate-simulacao) | Simulação de heurísticas com pesos surrogate (ROC/RS/RR) — Delphi |
 | [cdsid-surrogate-input](https://github.com/pedrogouveia001/cdsid-surrogate-input) | Entrada de dados para métodos com pesos surrogate — Delphi/IntraWeb |
 | [cdsid-pl-input](https://github.com/pedrogouveia001/cdsid-pl-input) | Entrada de problemas de programação linear, com solver lp_solve — Delphi |
