@@ -24,6 +24,16 @@ Construo backend em Python: desenho de API, modelagem de dados relacional, autor
 
 ---
 
+### Projetos
+
+**[spear-elicitation-simulator](https://github.com/pedrogouveia001/spear-elicitation-simulator)** — Python · NumPy · pytest
+Simulador de linha de comando que compara quatro heurísticas de seleção de pergunta para elicitação de preferências em decisão multicritério: mede quantas perguntas cada heurística precisa até convergir dentro de uma tolerância. Projeto final do CS50P (Harvard).
+
+**[Cerebrum-IA](https://github.com/pedrogouveia001/Cerebrum-IA)** — Rust · Tauri
+App desktop de memorização por repetição espaçada.
+
+---
+
 ### Sistemas de apoio à decisão — CDSID/UFPE (2022–2026)
 
 Quatro anos construindo software de decisão multicritério no Centro de Desenvolvimento de Sistemas de Informação e Decisão da UFPE. O código está arquivado em repositórios privados; o resumo do que foi construído:
@@ -32,6 +42,16 @@ Quatro anos construindo software de decisão multicritério no Centro de Desenvo
 - **FITradeoff-CB-HE** — seleção de portfólio de projetos por razão custo-benefício. **Registro de software no INPI nº 512025006292-3** (coautor: módulos de cálculo e fluxo de uso do método).
 - **SPEAR / Surrogate / PROMETHEE / NSGA-II** — motores de cálculo e simulação em Delphi/Object Pascal e Python, usados em sessões reais de elicitação de preferências com decisores.
 - **Portal bibliométrico do FITradeoff** — sincronização entre o raspador da página oficial e a API do OpenAlex, com desduplicação por DOI/título e grafo de coautoria em D3.js.
+
+**Repositórios públicos desse período:**
+
+| Repositório | O que é |
+| :--- | :--- |
+| [cdsid-surrogate-simulacao](https://github.com/pedrogouveia001/cdsid-surrogate-simulacao) | Simulação de heurísticas com pesos surrogate (ROC/RS/RR) — Delphi |
+| [cdsid-surrogate-input](https://github.com/pedrogouveia001/cdsid-surrogate-input) | Entrada de dados para métodos com pesos surrogate — Delphi/IntraWeb |
+| [cdsid-pl-input](https://github.com/pedrogouveia001/cdsid-pl-input) | Entrada de problemas de programação linear, com solver lp_solve — Delphi |
+| [cdsid-ppl-simulacao](https://github.com/pedrogouveia001/cdsid-ppl-simulacao) | Simulação de problemas de programação linear — Delphi |
+| [cdsid-colab-notebooks](https://github.com/pedrogouveia001/cdsid-colab-notebooks) | Notebooks de otimização e pesquisa operacional — Python/Jupyter |
 
 **Produção derivada desse software:** capítulo na Springer Nature (LNBIP, 2025) · INFORMS Annual Meeting 2024 (Seattle) · 27th International Conference on MCDM 2024 (Tunísia) · SBPO.
 
