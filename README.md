@@ -1,6 +1,6 @@
 # Pedro Henrique Gouveia de Souza
 
-**Backend Engineer — Python · FastAPI · PostgreSQL · REST APIs**
+**Backend & AI Engineering — Python · FastAPI · PostgreSQL · Decision Science & Applied AI**
 
 Recife, Pernambuco, Brasil
 [LinkedIn](https://www.linkedin.com/in/pedro-gouveia-7b81471b8) · [E-mail](mailto:pedrogouveia001@gmail.com) · [sad-mcdm](https://github.com/sad-mcdm)
@@ -24,13 +24,19 @@ Construo backend em Python: desenho de API, modelagem de dados relacional, autor
 
 ---
 
-### Projetos
+### Projetos em Destaque
 
-**[spear-elicitation-simulator](https://github.com/pedrogouveia001/spear-elicitation-simulator)** — Python · NumPy · pytest
+**[spear-elicitation-simulator](https://github.com/pedrogouveia001/spear-elicitation-simulator)** — Python · NumPy · pytest · GitHub Actions CI
 Simulador de linha de comando que compara quatro heurísticas de seleção de pergunta para elicitação de preferências em decisão multicritério: mede quantas perguntas cada heurística precisa até convergir dentro de uma tolerância. Projeto final do CS50P (Harvard).
 
-**[Cerebrum-IA](https://github.com/pedrogouveia001/Cerebrum-IA)** — Rust · Tauri
-App desktop de memorização por repetição espaçada.
+**[Cerebrum-IA](https://github.com/pedrogouveia001/Cerebrum-IA)** — Rust · Tauri · SQLite · Docker
+Plataforma desktop de memorização e inteligência com backend nativo em Rust, SQLite embarcado e empacotamento multi-stage Docker.
+
+**[toefl-prep-app](https://github.com/pedrogouveia001/toefl-prep-app)** — JavaScript (ES6+) · Web Speech API · Levenshtein Distance
+Aplicação web interativa e gamificada de preparação para o TOEFL iBT, com reconhecimento de fala no navegador para speaking drills e sintetizador de voz.
+
+**[criterial](https://github.com/pedrogouveia001/criterial)** — Tailwind CSS · Decision Science · Web UI
+Showcase e portal institucional da Criterial, demonstrando sistemas de inteligência de decisão multicritério e engenharia de software de alta performance.
 
 ---
 
@@ -66,14 +72,6 @@ Quatro anos construindo software de decisão multicritério no Centro de Desenvo
 > Os repositórios contêm apenas código-fonte de minha autoria. Dumps de banco, planilhas de
 > aplicação real e trabalho de colegas foram mantidos fora. Componentes de terceiros
 > redistribuídos (lp_solve, LGPL) estão creditados em `THIRD-PARTY.md`.
-
---- | :--- |
-| [cdsid-spear](https://github.com/pedrogouveia001/cdsid-spear) | SPEAR — elicitação por decomposição: Delphi/IntraWeb + camada web em Flask |
-| [cdsid-surrogate-simulacao](https://github.com/pedrogouveia001/cdsid-surrogate-simulacao) | Simulação de heurísticas com pesos surrogate (ROC/RS/RR) — Delphi |
-| [cdsid-surrogate-input](https://github.com/pedrogouveia001/cdsid-surrogate-input) | Entrada de dados para métodos com pesos surrogate — Delphi/IntraWeb |
-| [cdsid-pl-input](https://github.com/pedrogouveia001/cdsid-pl-input) | Entrada de problemas de programação linear, com solver lp_solve — Delphi |
-| [cdsid-ppl-simulacao](https://github.com/pedrogouveia001/cdsid-ppl-simulacao) | Simulação de problemas de programação linear — Delphi |
-| [cdsid-dashboard-fitradeoff](https://github.com/pedrogouveia001/cdsid-dashboard-fitradeoff) | Portal bibliométrico: raspador + API OpenAlex, desduplicação por DOI e grafo de coautoria em D3.js — JavaScript |
 
 **Produção derivada desse software:** capítulo na Springer Nature (LNBIP, 2025) · INFORMS Annual Meeting 2024 (Seattle) · 27th International Conference on MCDM 2024 (Tunísia) · SBPO.
 
