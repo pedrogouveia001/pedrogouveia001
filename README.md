@@ -43,7 +43,7 @@ Showcase e portal institucional da Criterial, demonstrando sistemas de inteligê
 
 ---
 
-### Software médico — Labtech Teilhard (2026– )
+### Software médico (2026– )
 
 Desenvolvimento backend e liderança técnica de um sistema de medição e controle de processo cirúrgico em transplante capilar (FUE), desenvolvido como **software de dispositivo médico sob IEC 62304, classe B**. O código é proprietário e fica em repositórios privados; o resumo do que foi construído:
 
