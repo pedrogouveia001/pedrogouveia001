@@ -112,7 +112,16 @@ Suíte de resolvedores de decisão multicritério, mantida por mim.
 
 ---
 
+### Estatísticas do GitHub
+
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrogouveia001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogouveia001&layout=compact&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribuições no GitHub" />
+</p>
+<p align="center">
+  <img height="180em" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img height="180em" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário de commits" />
+</p>
+<p align="center">
+  <img height="180em" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Linguagens mais usadas por repositório" />
+  <img height="180em" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas por commit" />
 </p>
