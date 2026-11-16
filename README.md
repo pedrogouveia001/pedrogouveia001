@@ -105,10 +105,11 @@ Suíte de resolvedores de decisão multicritério, mantida por mim.
 
 ### Formação
 
-- **Engenharia de Produção** — UFPE (2021–2025)
-- **CS50x** e **CS50P** — Harvard University
-- **Técnico em Mecânica** — IFPE (2017–2021)
-- Mestrado em Engenharia de Produção / Pesquisa Operacional — PPGEP-UFPE, créditos cursados (trancado em ago/2026)
+- **Engenharia de Produção** — Universidade Federal de Pernambuco (set/2021 – dez/2025)
+- **Mestrado em Engenharia de Produção** — UFPE (mar/2026 – ago/2026, interrompido)
+- **Técnico em Mecânica** — IFPE Campus Recife (2017 – 2021)
+
+**Certificações:** CS50x e CS50P (Harvard) · CS50's Introduction to Databases with SQL · Artificial Intelligence Essentials V2 · Introduction to Cloud Computing · Hands-on Introduction to Linux Commands and Shell Scripting · Python (Basic) Certificate
 
 ---
 
