@@ -45,10 +45,10 @@ Showcase e portal institucional da Criterial, demonstrando sistemas de inteligê
 
 ### Software médico (2026– )
 
-Desenvolvimento backend e liderança técnica de um sistema de medição e controle de processo cirúrgico em transplante capilar (FUE), desenvolvido como **software de dispositivo médico sob IEC 62304, classe B**. O código é proprietário e fica em repositórios privados; o resumo do que foi construído:
+Desenvolvimento backend e liderança técnica de um sistema de medição e controle de processo cirúrgico, desenvolvido como **software de dispositivo médico sob IEC 62304, classe B**. O código é proprietário e fica em repositórios privados; o resumo do que foi construído:
 
 - **Plataforma clínica (FastAPI + PostgreSQL)** — API assíncrona (SQLAlchemy 2 + asyncpg) com isolamento multi-clínica por Row Level Security no PostgreSQL 16, matriz de capacidades por papel, trilha de auditoria e migrações por Alembic. Motor de fórmulas próprio (parser + evaluator) para o planejamento cirúrgico, prontuário eletrônico, indicadores e assinatura digital ICP-Brasil em nuvem. Suíte de teste contra Postgres real, ~1.300 commits.
-- **App de centro cirúrgico (React + Capacitor)** — app de tablet usado dentro do centro cirúrgico para contagem de unidades foliculares em tempo real, com reconhecimento de voz offline (Vosk) e mapa 3D da cabeça. Android em produção; porte do plugin de voz para iOS em Swift.
+- **App de centro cirúrgico (React + Capacitor)** — app de tablet usado dentro do centro cirúrgico para registro de contagens em tempo real, com reconhecimento de voz offline (Vosk) e mapa 3D. Android em produção; porte do plugin de voz para iOS em Swift.
 - **App de bancada (Expo / React Native)** — contador de bancada que alimenta as taxas do processo cirúrgico.
 - **Plataforma de ensino (FastAPI + React PWA)** — cursos, avaliação de habilidade por vídeo, autenticação com TOTP, push e OCR de PDF.
 - **Infraestrutura e qualidade** — deploy em AWS (ECS Fargate, S3, CloudFront), SBOM/lista de SOUP versionada, sistema de gestão da qualidade com documentos controlados e rastreabilidade requisito → código → teste.
