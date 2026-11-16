@@ -41,6 +41,18 @@ Aplicação web interativa e gamificada de preparação para o TOEFL iBT, com re
 **[criterial](https://github.com/pedrogouveia001/criterial)** — Tailwind CSS · Decision Science · Web UI
 Showcase e portal institucional da Criterial, demonstrando sistemas de inteligência de decisão multicritério e engenharia de software de alta performance.
 
+
+**Projetos profissionais** — repositórios privados, código proprietário
+
+| Projeto | Stack | O que é |
+| :--- | :--- | :--- |
+| Plataforma clínica | FastAPI · SQLAlchemy 2 (async) · PostgreSQL 16 (RLS) · Alembic · Pytest | API multi-clínica de software de dispositivo médico (IEC 62304 classe B): motor de fórmulas, prontuário, indicadores e assinatura digital ICP-Brasil |
+| App de centro cirúrgico | React · TypeScript · Capacitor · Swift · Vosk | App de tablet para registro em tempo real dentro do centro cirúrgico, com voz offline e mapa 3D |
+| App de bancada | Expo · React Native | Contador de bancada que alimenta os indicadores do processo |
+| Sistema de gestão da qualidade | FastAPI · Jinja2 · PostgreSQL · Docker | Registros exigidos pela ISO 13485: aprovação de documento, não conformidade e CAPA, auditoria interna e liberação de versão |
+| Plataforma de ensino | FastAPI · React (PWA) · PostgreSQL | Cursos, avaliação de habilidade por vídeo, TOTP, notificações push e OCR de PDF |
+| Sites e portal editorial | Next.js · React · Vite · Python | Site institucional, portal de notícias e vitrine de produtos |
+
 ---
 
 ### Software médico (2026– )
